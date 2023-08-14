@@ -29,4 +29,8 @@ Random Forest: Um modelo de ensemble que utiliza múltiplas árvores de decisão
 Decision Tree: Um modelo que toma decisões com base na estrutura de uma árvore de decisão, dividindo o conjunto de dados em subconjuntos cada vez mais específicos.
 Contribuições e Uso
 
+Modelo gaussiano : Um modelo baseado na distribuição normal , qé amplamente utilizada para modelar dados contínuos em aprendizado de máquina, nete modelo de classificação não é efetivo.
+
+Perceptron : é uma unidade computacional básica em aprendizado de máquina, simulando um neurônio artificial, que toma entradas ponderadas e gera uma saída binária com base em uma função de ativação.
+
 Este projeto também pode ser usado como uma referência educativa para entender como abordar problemas de classificação e previsão com IA, além de explorar a eficácia comparativa de diferentes modelos.
