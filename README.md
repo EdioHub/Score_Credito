@@ -1,6 +1,6 @@
 # Score_Credito
-## Uso de modelos comparativos entre KNN, Naives, SVC, Ada, Forest, Tree, Gausian e Perceptron
-### Descrição do Projeto
+### Uso de modelos comparativos entre KNN, Naives, SVC, Ada, Forest, Tree, Gausian e Perceptron
+#### Descrição do Projeto
 Neste repositório GitHub, apresentamos um projeto de inteligência artificial (IA) voltado para a previsão de scores de crédito de clientes bancários. O objetivo principal é analisar um conjunto de dados abrangente contendo informações dos clientes já previamente pré-processado,e por meio da implementação de diversos modelos de aprendizado de máquina, atribuir automaticamente um score de crédito a cada cliente, classificando-o como "Ruim", "Ok" ou "Bom".
 
 Case: Score de Crédito de Clientes de um Banco
